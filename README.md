@@ -15,7 +15,7 @@ Step 2: Open the S3 Service In the console, type S3 in the search bar and select
 
 Step 3: Create Bucket Click the Create bucket button. 
 
-Step 4: Configure Bucket Settings
+Step 4: Configure Bucket Settings                    
 
 • Bucket name: Choose a globally unique name. • AWS Region: Select the region where you want to store your data.
 
@@ -63,12 +63,14 @@ Select your instance → Instance State → Terminate.
 # Output:
 
 Simple Storage Service:
-![image](https://github.com/user-attachments/assets/60c12632-2cca-4ed2-90c3-33791f01e266)
+
+<img width="1281" height="522" alt="Screenshot 2025-11-01 084229" src="https://github.com/user-attachments/assets/2c2d0007-988c-46e0-b862-0a6e84c521b7" />
 
 
 EC2(Elastic Cloud Compute)
-![image](https://github.com/user-attachments/assets/87143a1e-d4da-4b8b-85ea-944d90ecca36)
 
+
+<img width="1283" height="525" alt="Screenshot 2025-11-01 084241" src="https://github.com/user-attachments/assets/65db0a46-1e81-47a7-aab1-84de7f308adb" />
 
 
 
